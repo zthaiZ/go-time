@@ -1,0 +1,3 @@
+# Spec Summary (Lite)
+
+Integrate Google Maps Platform APIs to enable continuous monitoring of travel times between user-specified locations, allowing users to set target durations and receive automatic notifications when optimal travel conditions are reached. This includes scheduled polling, threshold detection, timeout handling, and notification triggering as the foundational "watching" capability.

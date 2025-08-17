@@ -73,3 +73,6 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# AgentOS documentation (local development only)
+.agent-os/

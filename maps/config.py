@@ -1,4 +1,4 @@
-"""Configuration management for ETA Watcher."""
+"""Configuration management for GoTime."""
 
 import os
 from typing import Optional

@@ -2,7 +2,7 @@
 
 ## Pitch
 
-ETA Watcher is a smart commute monitoring app that helps traffic-conscious commuters minimize time spent in traffic by providing automated notifications when travel times reach their preferred duration between any two locations.
+GoTime is a smart commute monitoring app that helps traffic-conscious commuters minimize time spent in traffic by providing automated notifications when travel times reach their preferred duration between any two locations.
 
 ## Users
 
@@ -43,7 +43,7 @@ Traffic conditions change rapidly throughout the day, making it difficult to pla
 
 ### Intelligent Background Monitoring
 
-Unlike Google Maps or Waze which require active monitoring, ETA Watcher continuously tracks your specified routes in the background and only notifies you when conditions are optimal. This eliminates the need for constant manual checking.
+Unlike Google Maps or Waze which require active monitoring, GoTime continuously tracks your specified routes in the background and only notifies you when conditions are optimal. This eliminates the need for constant manual checking.
 
 ### Customizable Travel Time Thresholds
 
@@ -51,7 +51,7 @@ Unlike basic traffic apps that just show current conditions, we provide personal
 
 ### Route-Specific Optimization
 
-Unlike general traffic apps, ETA Watcher focuses specifically on your frequently traveled routes, learning your patterns and providing targeted notifications for the journeys that matter most to you.
+Unlike general traffic apps, GoTime focuses specifically on your frequently traveled routes, learning your patterns and providing targeted notifications for the journeys that matter most to you.
 
 ## Key Features
 

@@ -1,4 +1,4 @@
-"""Directions and travel time utilities for ETA Watcher."""
+"""Directions and travel time utilities for GoTime."""
 
 from typing import Tuple, Optional
 import logging

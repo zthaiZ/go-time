@@ -1,4 +1,4 @@
-"""Monitoring engine and session management for ETA Watcher."""
+"""Monitoring engine and session management for GoTime."""
 
 import asyncio
 import logging

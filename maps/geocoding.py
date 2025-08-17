@@ -1,4 +1,4 @@
-"""Geocoding utilities for ETA Watcher."""
+"""Geocoding utilities for GoTime."""
 
 from typing import Optional, Tuple
 import logging

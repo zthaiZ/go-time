@@ -1,4 +1,4 @@
-"""Google Maps API client for ETA Watcher."""
+"""Google Maps API client for GoTime."""
 
 import logging
 from typing import Dict, Any, Optional, Tuple

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "eta-watcher"
+name = "go-time"
 version = "0.1.0"
 description = "Smart commute monitoring app that watches Google Maps travel times and notifies when target durations are reached"
 authors = ["Your Name <your.email@example.com>"]

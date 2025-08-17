@@ -13,7 +13,7 @@
 
 ### Decision
 
-ETA Watcher will be a smart commute monitoring application that automatically tracks Google Maps travel times and notifies users when their preferred travel duration is reached. The target market is traffic-conscious commuters and frequent travelers who want to optimize departure timing without manual monitoring.
+GoTime will be a smart commute monitoring application that automatically tracks Google Maps travel times and notifies users when their preferred travel duration is reached. The target market is traffic-conscious commuters and frequent travelers who want to optimize departure timing without manual monitoring.
 
 ### Context
 
